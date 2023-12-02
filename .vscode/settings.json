@@ -1,0 +1,10 @@
+{
+    "peacock.affectDebuggingStatusBar": false,
+    "peacock.lightForegroundColor": "violet",
+    "peacock.vslsJoinColor": "violet",
+    "peacock.vslsShareColor": "violet",
+    "peacock.remoteColor": "blue",
+    "peacock.color": "",
+    "peacock.darkForegroundColor": "violet",
+    "git.ignoreLimitWarning": true
+}
